@@ -1,4 +1,4 @@
-#Interface Netflix
+# Interface Netflix
 
 Interface criada para por em prática alguns aprendizados mais voltados a front-end, usando tema Netflix.
 Foi anexado também barra de rolagem para visualização de mais itens da página.
